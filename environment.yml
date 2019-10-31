@@ -3,3 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - voila=0.1.16
+  - ipywidgets
+  - pandas
+  - plotly
